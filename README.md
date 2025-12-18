@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo-ai3.png" alt="ai3 Logo" width="280">
+  <img src="logo-ai3.png" alt="ai3 Logo">
 </p>
 
 <p align="center">
