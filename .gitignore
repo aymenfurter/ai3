@@ -48,7 +48,6 @@ build/
 
 # Screenshot output
 screenshots/
-*.png
 
 # Python
 __pycache__/
